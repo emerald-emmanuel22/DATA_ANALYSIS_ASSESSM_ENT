@@ -1,0 +1,1 @@
+SELECT * FROM adashi_staging.users_customuser;
